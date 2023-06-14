@@ -32,6 +32,7 @@ while True:
     elif choice == 3:
         student = input("Ingresa student a Eliminar: ")
         remove_student(student)
+        
     elif choice == 4:
         break
     else:
